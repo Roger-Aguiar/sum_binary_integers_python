@@ -95,6 +95,8 @@ class SumBinaryIntegers:
 
         print("The sum of {} + {} = {}" .format(binaryNumber1, binaryNumber2, binaryNumberResult))
 
+        print("\n***********************************************************************************************************\n")
+
     def convertIntegersToBinary(decimalNumber):
         binaryNumber = []
 
